@@ -21,7 +21,7 @@
 
 ### 📊 Моя статистика на GitHub:
 <!-- Если хочешь, можешь добавить статистику с https://github.com/anuraghazra/github-readme-stats -->
-![Артём's GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical)
+![Артём's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwindius&show_icons=true&theme=radical)
 
 **Спасибо, что заглянул в мой профиль!** 😊  
 *"Программирование — это магия, а код — заклинания."* ✨
