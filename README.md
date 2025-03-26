@@ -17,10 +17,8 @@
 - Изучение новых технологий и языков
 - Участие в open-source проектах
 
-![Android](https://img.shields.io/badge/Android_AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 ### 🚀 Мой главный проект:
-**📱 Кастомная прошивка Android (AOSP)**  
+![Android](https://img.shields.io/badge/Android_AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 - Собираю свою версию Android из исходников  
 - Модифицирую системные компоненты  
 - Оптимизирую производительность  
