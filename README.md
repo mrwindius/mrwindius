@@ -21,8 +21,7 @@
 ![Android](https://img.shields.io/badge/Android_AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 - Собираю свою версию Android из исходников  
 - Модифицирую системные компоненты  
-- Оптимизирую производительность  
-- [Ссылка на репозиторий](https://github.com/mrwindius/aosp-project) (можно добавить позже)  
+- Оптимизирую производительность 
 
 ### 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrwindius)  
